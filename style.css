@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    /* background-image: url('images/body-bg.png.webp');
+    background-repeat: no-repeat; */
+    /* background-color: #EEE4E1; */
+}
+.navbar-wrapper, .btn-bg{
+    background-color: #E7D8C9;;
+}
+.btn-bg:hover,
+.ctr:hover{
+    background-color: #B2967D;    
+}
+.bg{
+    background-color: #E7D8C9;
+}
+.ctr{
+    background-color: #ECF8F8;; 
+}
+
